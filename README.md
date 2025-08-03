@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Toàn</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20I'm%20Toàn%20🚀&fontSize=40&fontColor=ffffff" />
+
 <h3 align="center">Java Backend Developer @ DXC Technology</h3>
 
 <p align="center">
@@ -7,14 +8,13 @@
 
 ---
 
-### 💻 About Me
+### 💡 About Me
 
-- 🔭 I’m currently working on **microservices projects using Spring Boot**
-- 🌱 I’m learning **Kubernetes, system design, and CI/CD**
-- 💼 Tech Stack: `Java`, `Spring Boot`, `MongoDB`, `SQL Server`, `REST APIs`
-- 💬 Ask me anything about backend, clean architecture, or system integration!
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/toan-vo-00539a222/)
-- ⚡ Fun fact: I love building tools that make other devs' lives easier
+- 🔭 I’m currently building microservices using Spring Boot and MongoDB
+- 🌱 I’m learning Kubernetes, distributed systems, and DevOps tools
+- 💬 Ask me about Java backend, system design, or clean architecture!
+- 🧠 Passionate about backend engineering & team productivity
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/toan-vo-00539a222/)
 
 ---
 
@@ -34,20 +34,32 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tona2809&show_icons=true&theme=radical" alt="Tona2809" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tona2809&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tona2809&theme=radical" alt="Tona2809" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tona2809&theme=radical" />
 </p>
 
 ---
 
-### 📌 Top Projects (Pinned)
+### 📌 Highlighted Projects
 
 - 🏨 [`hotel-service`](https://github.com/Tona2809/hotel-service): Spring Boot microservice with HATEOAS, pagination, validation  
 - 🧰 [`common-util`](https://github.com/Tona2809/common-util): Shared utility module for microservices with SQL Server support
 
 ---
 
-### 📫 Let's Connect
+### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toan-vo-00539a222/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/toan-vo-00539a222/" target="_blank">
+    <img src="https://img.shields.io/badge/-Toan%20Vo-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- Optional bottom banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
