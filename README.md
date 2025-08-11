@@ -36,17 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tona2809&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tona2809&theme=radical" />
 </p>
-
----
-
-### 📌 Highlighted Projects
-
-- 🏨 [`hotel-service`](https://github.com/Tona2809/hotel-service): Spring Boot microservice with HATEOAS, pagination, validation  
-- 🧰 [`common-util`](https://github.com/Tona2809/common-util): Shared utility module for microservices with SQL Server support
-
----
 
 ### 🌐 Let's Connect
 
@@ -54,7 +44,7 @@
   <a href="https://www.linkedin.com/in/toan-vo-00539a222/" target="_blank">
     <img src="https://img.shields.io/badge/-Toan%20Vo-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:songtoan280901@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
