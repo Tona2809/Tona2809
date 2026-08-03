@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20I'm%20Toàn%20🚀&fontSize=40&fontColor=ffffff" />
 
-<h3 align="center">Java Backend Developer @ DXC Technology</h3>
+<h3 align="center">Java Backend Developer @ FPT SOFTWARE HCM.City</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tona2809&label=Profile%20views&color=0e75b6&style=flat" alt="Tona2809" />
